@@ -1,4 +1,4 @@
-/*texto e cor de fundo site inteiro*/
+/*texto e cor de fundo site*/
 body {
     font-family: 'Roboto', sans-serif;
     background-color: #f9f0ff;  
@@ -86,16 +86,18 @@ summary {
 }
 
 /*cartão parágrafo*/
-p {
+.card p {
     padding: 0 10px;
     font-weight: 700;
+    font-family: "Arial", sans-serif;
 }
 
 /*cartão citação*/
-p q {
-    color: #4e293c;
+.card p q {
+    color: #331626;
+    font-family: "Arial", sans-serif;
     font-style: italic;
-    font-weight: lighter;
+    font-weight: 300;
 }
 
 /*imagem classificação indicativa*/
