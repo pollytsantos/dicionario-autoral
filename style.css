@@ -9,6 +9,7 @@ header {
     height: 150px;
     background-color: #c06b8e;
     border-bottom: 2px solid #794058;
+    border-top: 2px solid #794058;
     margin-bottom: 60px;
     margin-top: auto;
     color: #ffffff;
@@ -27,7 +28,7 @@ header {
 h1 {
     text-transform: uppercase;
     margin-bottom: 0;
-    padding-top: 20px;
+    padding-top: 15px;
     color: #ffffff;
 }
 
@@ -41,7 +42,7 @@ h1 {
 /*texto da header*/
 header p {
     font-family: "Arial", sans-serif;
-    padding-top: 20px;
+    padding-top: 15px;
 }
 
 /*seção dos cartões*/
