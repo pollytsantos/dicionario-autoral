@@ -97,7 +97,7 @@ function carregaDicionario() {
             imagem:"imagem-filme/imaginemeandyou.jpg", 
             classificacao:"imagem-classificacao/14.png",
             genero:"Comédia romântica", 
-            descricao:"No dia do seu casamento, Rachel conhece a florista Luce e sente uma forte atração por ela. Ao se reencontrarem, a amizade entre as duas cresce tanto quanto as dúvidas de Rachel em relação ao marido. Ao saber que Luce é gay, sua vida vira do avesso", 
+            descricao:"No dia do seu casamento, Rachel conhece a florista Luce e sente uma forte atração por ela. Ao se reencontrarem, a amizade entre as duas cresce tanto quanto as dúvidas de Rachel em relação ao marido. Ao saber que Luce é gay, sua vida vira do avesso.", 
         }, 
         filme014:{
             nome:"Marte Um", 
@@ -160,7 +160,7 @@ function carregaDicionario() {
             imagem:"imagem-filme/theprom.jpg", 
             classificacao:"imagem-classificacao/12.png",
             genero:"Musical", 
-            descricao:"Emma, uma adolescente do último ano do ensino médio, decide levar sua namorada ao baile de formatura, porém a escola cancela a festa. Ao chamar a atenção para o problema nas redes sociais, um grupo de estrelas decadentes da Broadway decide ajudá-la", 
+            descricao:"Emma, uma adolescente do último ano do ensino médio, decide levar sua namorada ao baile de formatura, porém a escola cancela a festa. Ao chamar a atenção para o problema nas redes sociais, um grupo de estrelas decadentes da Broadway decide ajudá-la.", 
         },
         filme023:{
             nome:"The Watermelon Woman", 
@@ -186,7 +186,7 @@ function carregaDicionario() {
             "<p>Gênero: " +
             filmes[i].genero +
             "</p>" +
-            "<p>Classificação indicativa:" +
+            "<p>Classificação indicativa: " +
             '<img class="idade" src="' +
             filmes[i].classificacao +
             '" alt="Classificação indicativa"/></p>' +
