@@ -54,7 +54,7 @@ function carregaDicionario() {
             nome:"D.E.B.S", 
             imagem:"imagem-filme/debs.jpg", 
             classificacao:"imagem-classificacao/16.png",
-            genero:"Ação/ Comédia/ Romance", 
+            genero:"Ação / Comédia / Romance", 
             descricao:"Amy, Max, Janet e Dominique formam o esquadrão de espiãs juvenis escalado pelo governo americano para infiltrar-se em uma escola secundária e descobrir o paradeiro de uma agente que desapareceu após o confronto com a criminosa Lucy Diamond.", 
         }, 
         filme08:{
