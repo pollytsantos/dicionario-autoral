@@ -54,7 +54,7 @@ function carregaDicionario() {
             nome:"D.E.B.S", 
             imagem:"imagem-filme/debs.jpg", 
             classificacao:"imagem-classificacao/16.png",
-            genero:"Ação/Comédia/Romance ", 
+            genero:"Ação/ Comédia/ Romance", 
             descricao:"Amy, Max, Janet e Dominique formam o esquadrão de espiãs juvenis escalado pelo governo americano para infiltrar-se em uma escola secundária e descobrir o paradeiro de uma agente que desapareceu após o confronto com a criminosa Lucy Diamond.", 
         }, 
         filme08:{
@@ -166,7 +166,7 @@ function carregaDicionario() {
             nome:"The Watermelon Woman", 
             imagem:"imagem-filme/thewatermelonwoman.jpg", 
             classificacao:"imagem-classificacao/16.png",
-            genero:"Romance/Comédia", 
+            genero:"Romance/ Comédia", 
             descricao:"Cheryl é uma jovem, negra e lésbica, que trabalha na Filadélfia com sua melhor amiga Tamara e está consumida pelo projeto de um filme: fazer um vídeo sobre sua busca por uma atriz negra da Filadélfia, que apareceu em filmes na década de 30 e ficou conhecida como a Mulher Melancia. Seguindo várias dicas, Cheryl descobre o nome real da Mulher Melancia e supõe que a atriz teve um longo caso com Martha Page, uma mulher branca e uma das poucas diretoras de cinema mulheres de Hollywood. Enquanto ela faz essas descobertas, Cheryl se envolve com Diana.", 
         }, 
     };
